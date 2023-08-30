@@ -1,0 +1,27 @@
+body{
+    background-color: blanchedalmond;
+}
+.cabeçalho{
+    background-color: rgba(255, 228, 196);
+    color: rgb(38, 38, 54);
+    text-align: center;
+    padding: 2px;
+}
+.menu{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    padding: 10px 25px;
+}
+.assuntos{
+    flex: 2;
+    border: 1px solid brown;
+    padding: 1px;
+    min-width: 240px;
+}
+.rodapé{
+    background-color: antiquewhite;
+    color: chocolate;
+    text-align: center;
+    padding: 1px 0.5px;
+}

@@ -1,0 +1,25 @@
+body{
+    background-color: blanchedalmond;
+}
+.cabeça{
+    background-color: rgba(255, 228, 196);
+    color: rgb(38, 38, 54);
+    text-align: center;
+    padding: 2px;
+}
+.menu{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 15px;
+    padding: 10px;
+}
+.Sobre{
+    border: 1px solid rgb(90, 65, 33);
+    padding: 1px 2px;
+}
+.fim{
+    background-color: antiquewhite;
+    color: darkgoldenrod;
+    text-align: center;
+    padding: 1px;
+}
